@@ -1,4 +1,4 @@
-A modern, production-ready web application scaffold powered by cutting-edge technologies, designed to accelerate your development with [Z.ai](https://chat.z.ai)'s AI-powered coding assistance.
+Portfolio with classic Style
 ### 🎯 Core Framework
 - **⚡ Next.js 16** - The React framework for production with App Router
 - **📘 TypeScript 5** - Type-safe JavaScript for better developer experience
